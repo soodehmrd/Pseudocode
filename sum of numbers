@@ -1,0 +1,6 @@
+sum = 0
+for n = 1 to 100
+input number
+sum = sum + number
+end for
+display for
